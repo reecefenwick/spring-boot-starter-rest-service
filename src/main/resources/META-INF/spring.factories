@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+au.com.reecefenwick.api.autoconfigure.ControllerAdviceAutoConfiguration,\
+au.com.reecefenwick.api.autoconfigure.HttpFilterAutoConfiguration,\
+au.com.reecefenwick.api.autoconfigure.SwaggerAutoConfiguration,\
+au.com.reecefenwick.api.autoconfigure.JacksonAutoConfiguration
